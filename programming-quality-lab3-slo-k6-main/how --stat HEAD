@@ -1,0 +1,8 @@
+[33mcommit 90b8b2fb63c15f18efeca9554992174219355f05[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Altangerel Naranzul <naranzul7314@gmail.com>
+Date:   Mon Nov 23 12:37:54 2026 +0800
+
+    Minor fixes to Lab 3 SLO k6 files
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
